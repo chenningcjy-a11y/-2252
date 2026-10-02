@@ -1,0 +1,6 @@
+{
+  "name": "Core Workout Supervisor",
+  "description": "Daily dual-track training supervisor alternating between 5-step core exercise + post-workout stretch and 20-minute Korean practice, with daily entry prompts and calendar completion tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
